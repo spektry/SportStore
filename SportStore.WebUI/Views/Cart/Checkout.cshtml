@@ -1,0 +1,51 @@
+﻿@model SportSore.Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "SportStore: оформление покупки";
+}
+
+<h2>Купить сейчас</h2>
+<p>
+    Пожалуйста, заполните информацию о доставке и мы доставим ваш товар в кротчайшие сроки!
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary();
+    
+    <h3>Куда доставить</h3>
+    <div class="form-group">
+        <label>* Имя:</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+    <h3>Адрес</h3>
+    
+    foreach (var p in ViewData.ModelMetadata.Properties)
+    {
+        if (p.PropertyName != "Name" && p.PropertyName != "GiftWrap")
+        {
+            <div class="form-group">
+                <label>
+                    @if(p.IsRequired) {  
+                        @:* 
+                    }
+                    @(p.DisplayName ?? p.PropertyName)
+                </label>
+                @Html.TextBox(p.PropertyName, null, new { @class = "form-control" })
+            </div>
+        }
+    }
+    
+    <h3>Дополнительно</h3>
+    
+    <div class="checkbox">
+        <label>
+            @Html.EditorFor(x => x.GiftWrap)
+            Подарочная упаковка для ваших покупок
+        </label>
+    </div>
+    
+    <div class="text-center">
+        <input type="submit" class="btn btn-primary" value="Завершить покупку"> 
+    </div>
+}

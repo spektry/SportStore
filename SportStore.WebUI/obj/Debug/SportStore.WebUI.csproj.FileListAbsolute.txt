@@ -1,0 +1,85 @@
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll.config
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.pdb
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\EntityFramework.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Moq.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\SportSore.Domain.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Helpers.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Mvc.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Razor.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\WebActivator.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\SportSore.Domain.pdb
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\EntityFramework.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Moq.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.pdb
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Razor.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Helpers.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\System.Web.Mvc.xml
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\ru\System.Web.Webpages.resources.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
+D:\Development\Projects\_visual studio 2013_Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\SportStore.WebUI.pdb
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\EntityFramework.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Moq.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\SportSore.Domain.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Helpers.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Mvc.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Razor.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Webpages.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\WebActivator.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\SportSore.Domain.pdb
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\EntityFramework.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Moq.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.pdb
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Razor.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Webpages.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Helpers.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\System.Web.Mvc.xml
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\ru\System.Web.Webpages.resources.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.csprojResolveAssemblyReference.cache
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
+D:\ALEX\WORK\Projects\SportStore2\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
